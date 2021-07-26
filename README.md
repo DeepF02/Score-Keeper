@@ -1,2 +1,2 @@
 # Score-Keeper
-App build tom keep score while you play your favorite sport.
+App build to keep score while you play your favorite sport.
