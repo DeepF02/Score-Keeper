@@ -5,7 +5,8 @@ App build to keep score while you play your favorite sport.
 Step 1- Clone this repo to your device<br>
 Step 2- Then, double click on html file named scoreKeeper<br>
 Then this html webpage will be displayed on ypur default browser.<br>
-![image](https://user-images.githubusercontent.com/79007981/128753879-fbcfa7d6-ff76-4278-8e07-a23e42c89d20.png)
+
+![image](https://user-images.githubusercontent.com/79007981/128755780-d6f9d2b1-1ba4-47f1-b375-a53bfdf89214.png)
 
 ## 2. Does this page show who won the game?
 Yes, you can select the no. of points your game will be an also add your name along with your opponent name in the input section and press save.
